@@ -2,3 +2,4 @@
 
 
 #repository.thecrew-0.3.4.zip source   https://team-crew.github.io/
+#repository.thewarehouse-22.6.8.zip source https://warehousecrates.github.io/TheWareHouse/
